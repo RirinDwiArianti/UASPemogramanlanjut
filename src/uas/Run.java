@@ -2,7 +2,7 @@ package uas;
 
 import javax.swing.*;
 
-public class SwingSearchSortJListExample {
+public class Run {
 
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("UAS PL Ririn Dwi Arianti");
